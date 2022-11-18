@@ -1,0 +1,14 @@
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\bin\Debug\netcoreapp3.1\Task1.Lab.exe
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\bin\Debug\netcoreapp3.1\Task1.Lab.deps.json
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\bin\Debug\netcoreapp3.1\Task1.Lab.runtimeconfig.json
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\bin\Debug\netcoreapp3.1\Task1.Lab.runtimeconfig.dev.json
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\bin\Debug\netcoreapp3.1\Task1.Lab.dll
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\bin\Debug\netcoreapp3.1\Task1.Lab.pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\obj\Debug\netcoreapp3.1\Task1.Lab.csproj.AssemblyReference.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\obj\Debug\netcoreapp3.1\Task1.Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\obj\Debug\netcoreapp3.1\Task1.Lab.AssemblyInfoInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\obj\Debug\netcoreapp3.1\Task1.Lab.AssemblyInfo.cs
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\obj\Debug\netcoreapp3.1\Task1.Lab.csproj.CoreCompileInputs.cache
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\obj\Debug\netcoreapp3.1\Task1.Lab.dll
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\obj\Debug\netcoreapp3.1\Task1.Lab.pdb
+C:\Users\GULTAJ\OneDrive\Desktop\Lab delegates\Task1.Lab\Task1.Lab\obj\Debug\netcoreapp3.1\Task1.Lab.genruntimeconfig.cache
